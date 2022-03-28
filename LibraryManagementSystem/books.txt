@@ -1,0 +1,8 @@
+  1 ; tom sawyer      ;   1 ;   1 ; 1998
+  2 ; it              ;   2 ;   2 ; 1900
+  3 ; cin ali         ;   7 ;   1 ; 2015
+  4 ; keloglan        ;   7 ;   1 ; 2000
+  5 ; sefiller        ;   7 ;   3 ; 2000
+  6 ; inci            ;   7 ;   3 ; 2008
+  7 ; homosapiens     ;   7 ;   4 ; 2009
+  8 ; evrim nedir     ;   4 ;   4 ; 2007

@@ -1,0 +1,6 @@
+  1 ; ali                  ; veli                
+  2 ; mehmet               ; ali                 
+  3 ; memo                 ; veli                
+  4 ; cenk                 ; erbakan             
+  7 ; ilber                ; ortayli             
+  8 ; Raif                 ; Kaplan

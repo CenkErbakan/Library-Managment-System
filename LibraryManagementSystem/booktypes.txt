@@ -1,0 +1,4 @@
+  1 ; macera              
+  2 ; korku               
+  3 ; dram                
+  4 ; tarihi              
